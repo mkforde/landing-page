@@ -6,7 +6,7 @@ Using mostly flexbox I positioned items for this basic landing page.
 
 # Styles Used
 
-![Styles Used](colors-and-font.png)
+![Styles Used](colors-and-fonts.png)
 
 # Credits
 
